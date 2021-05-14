@@ -61,7 +61,7 @@ Making a lit Discord server is now easier than ever and for free.
 
 15. Server Widgets make it so you can display info (including members online and more) using an embed ifame. Using this, you can also set up a badge to feature the number of active users (see https://github.com/Naereen/badges#discord) where the format is `[![Discord](https://img.shields.io/discord/<server-id>.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/<invite-link>)`). Note the server ID is found here but you **must** enable the server widget first (see image)
 
-    ![image-20210513130514567](../../../AppData/Roaming/Typora/typora-user-images/image-20210513130514567.png)
+    ![wigdet](img/wigdet.png)
 
 16. Server template allows you to save the current server as a template so you can clone it later and have similar roles, permissions, settings, and channels
 
