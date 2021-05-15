@@ -158,6 +158,12 @@ Making a lit Discord server is now easier than ever and for free.
 
 
 
+## Resources
+
+* [Discord's Moderator Academy](https://discord.com/moderation)
+
+
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
